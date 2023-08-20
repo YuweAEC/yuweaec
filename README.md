@@ -16,7 +16,7 @@ Catch me up on :-
 
 - 👨‍💻 All of my projects are available at [https://github.com/YuweAEC](https://github.com/YuweAEC)
 
-- 📫 How to reach me **yuwe18b@gmail.com**
+- 📫 How to reach me **rajbro34a@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuweaec&show_icons=true&locale=en&layout=compact" alt="yuweaec" /></p>
