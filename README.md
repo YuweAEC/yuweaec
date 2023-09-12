@@ -1,6 +1,6 @@
 # Hey All 😁 !
 <h1 align="center">I'm Yuvraj Singh</h1>
-<h3 align="center">A passionate frontend developer from India, and an aspiring Machine Learning Engineer</h3>
+<h3 align="center">A passionate frontend developer, and an aspiring Machine Learning Engineer</h3>
 
 # Enthusiast ..... 😋
 
