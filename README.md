@@ -12,7 +12,7 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
 - Twitter: [Yuvraj Singh](https://twitter.com/yuwe018)
 
 [![Yuwe's GitHub | Languages Over Time](https://stats.quine.sh/Yuwe/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
-
+[![Yuwe's GitHub | Topics Over Time](https://stats.quine.sh/Yuwe/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuweaec&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
