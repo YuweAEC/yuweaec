@@ -1,3 +1,4 @@
+```markdown
 # Hey Everyone! 😁
 
 <h1 align="center">I'm Yuvraj Singh</h1>
@@ -30,3 +31,4 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
 [![Yuwe's GitHub | Stats](https://stats.quine.sh/Yuwe/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
 
 Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
+```
