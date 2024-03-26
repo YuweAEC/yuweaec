@@ -13,7 +13,6 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
 
 [![Yuwe's GitHub | Languages Over Time](https://stats.quine.sh/Yuwe/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
 
-[![Yuwe's GitHub | Topics Over Time](https://stats.quine.sh/Yuwe/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
 
 ## GitHub Stats
 <p align="center">
