@@ -32,7 +32,6 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuweaec" alt="GitHub Streak" />
 </p>
 
-[![Yuwe's GitHub | Stats](https://stats.quine.sh/Yuwe/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Yuwe)
 
 Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
 
