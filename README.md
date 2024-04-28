@@ -4,6 +4,8 @@
 ## About Me
 I'm enthusiastic about exploring the realms of technology, with a keen interest in frontend development and machine learning. Constantly learning and growing, I strive to push the boundaries of what's possible in the digital world.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuweaec" alt="yuweaec" /> </p>
+
 <h2 align="center">Connect with me</h2>
 <div align="center">  
   <a href="https://github.com/YuweAEC" target="_blank">
