@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Yuvraj Singh</h1>
+<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A Passionate Frontend Developer and Aspiring Machine Learning Engineer</h3>
 
 ## About Me
@@ -32,7 +32,8 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuweaec" alt="GitHub Streak" />
 </p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
+</p>
 
 Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
-
