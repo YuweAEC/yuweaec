@@ -6,6 +6,8 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yuweaec" alt="yuweaec" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderun13" alt="coderun13" /></a> </p>
+
 <h2 align="center">Connect with me</h2>
 <div align="center">  
   <a href="https://github.com/YuweAEC" target="_blank">
