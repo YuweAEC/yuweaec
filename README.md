@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A Passionate Frontend Developer and Aspiring Machine Learning Engineer</h3>
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+World!!!..">
+  </a>
+</h1>
 
 ## About Me
 I'm enthusiastic about exploring the realms of technology, with a keen interest in frontend development and machine learning. Constantly learning and growing, I strive to push the boundaries of what's possible in the digital world.
