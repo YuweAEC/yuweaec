@@ -28,6 +28,8 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
   </a>
 </div>
 
+<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">
+  
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuweaec&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -45,6 +47,4 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">
-  
 Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
