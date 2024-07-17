@@ -45,8 +45,6 @@ I'm enthusiastic about exploring the realms of technology, with a keen interest 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
-
-<img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px"><img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
-
+<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">
+  
 Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
