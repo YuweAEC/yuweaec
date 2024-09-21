@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">A Passionate Frontend Developer and Aspiring Machine Learning Engineer</h3>
+<h3 align="center">A Passionate Python Developer and Aspiring Machine Learning Engineer</h3>
 
 
 ## About Me
