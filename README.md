@@ -1,50 +1,69 @@
-<h1>
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00008B&size=25&lines=Hello+World!!!..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00008B&center=true&vCenter=true&width=435&lines=Hello+World!!!;I'm+Yuvraj+Singh;Backend+Developer;Aspiring+ML+Engineer">
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">A Passionate Backend Developer and Aspiring Machine Learning Engineer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuweaec&label=PROFILE+VIEWS&color=00008b&style=flat" alt="yuweaec" />
+</p>
 
+---
 
-## About Me
-I'm enthusiastic about exploring the realms of technology, with a keen interest in frontend development and machine learning. Constantly learning and growing, I strive to push the boundaries of what's possible in the digital world.
+### 👨‍💻 About Me
+I am a **Backend Developer** with a deep-seated passion for building scalable systems and exploring the world of **Machine Learning**. I bridge the gap between robust server-side logic and intelligent data-driven insights.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuweaec" alt="yuweaec" /> </p>
+- 🔭 I’m currently working on building efficient backend architectures.
+- 🌱 I’m currently learning **Advanced ML Algorithms & Neural Networks**.
+- 👯 I’m looking to collaborate on **Open Source Backend or AI projects**.
+- 💬 Ask me about **Python, APIs, NLP, Prompt Engineering**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuweaec" alt="yuweaec" /></a> </p>
+---
 
-<h2 align="center">Connect with me</h2>
-<div align="center">  
-  <a href="https://github.com/YuweAEC" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,mysql,git,github,docker,aws,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yuweaec&theme=flat&no-frame=true&column=7" alt="trophies" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuweaec&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yuweaec&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuweaec&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&bg_color=ffffff00&color=00008b&line=00008b&point=00008b&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/enthusiastyuwe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yuwe018" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/enthusiastyuwe/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="mailto:yuwe18b@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">
-  
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuweaec&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuweaec&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="right">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuweaec" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuweaec&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
-</p>
-
-Feel free to explore my GitHub repositories and reach out to me for collaboration or just to say hi! Let's create something amazing together! 😊
