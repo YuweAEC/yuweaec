@@ -1,50 +1,56 @@
-<div align="center">
-  <h1>Yuvraj Singh</h1>
-  <h3>Backend Engineer • Growing into Machine Learning</h3>
-</div>
+<!-- <div align="center"><img src="https://github.com/yuweaec/yuweaec/blob/main/banner.png" alt="Banner" /></div> -->
 
 <div align="center">
-  <p>
-    I build scalable, reliable backend systems — APIs, distributed services, and data pipelines — with a focus on performance, resilience, and clean architecture. Lately, I’ve been expanding into applied Machine Learning: model training, evaluation, and production serving with solid MLOps practices.
-  </p>
+
+<pre>
+╔═══════════════════════════════════════════════════════════════╗
+║         YUVRAJ SINGH  //  BACKEND × APPLIED AI × SYSTEMS      ║
+╚═══════════════════════════════════════════════════════════════╝
+</pre>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enthusiastyuwe/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yuwe018)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuwe18b@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/yuweaec?style=flat-square&color=0D1117&labelColor=30363D&label=Followers)](https://github.com/yuweaec)
+![Profile Views](https://komarev.com/ghpvc/?username=yuweaec&style=flat-square&color=0D1117)
+
 </div>
 
-<div align="center">
-  <h3>Skills</h3>
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs,ts,java,fastapi,django,flask,spring,express,nestjs" alt="Backend & Frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" alt="Databases" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,linux" alt="Cloud & Infra" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" alt="Machine Learning" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
-</div>
+---
 
-<br/>
+## `whoami`
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/yuweaec?cardType=default&theme=dark&preferLogin=false" alt="GitHub Stats" />
-</div>
+> *Engineering resilient backend architectures and production-ready AI systems that scale cleanly.*
 
-<div align="center">
-  <h3>Languages</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuweaec&theme=transparent" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuweaec&theme=transparent" alt="Most Commit Language" />
-</div>
+I'm a **Backend & Applied AI Engineer** building high-throughput APIs, distributed services, and data pipelines with a strong focus on performance, fault tolerance, and clean architecture. Alongside core systems engineering, I build and deploy applied Machine Learning and LLM workflows—bridging model training, RAG pipelines, and reliable MLOps serving.
 
-<br/>
+**What I believe:** Great architecture makes the right thing easy and the wrong thing impossible.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/enthusiastyuwe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yuwe018" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:yuwe18b@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+---
+
+## `./stack --verbose`
+
+```yaml
+backend & architecture:
+  languages:      [ Python, Go, JavaScript, TypeScript, Java ]
+  frameworks:     [ FastAPI, Django, Flask, Node.js, Express.js, NestJS, Spring ]
+  protocols:      [ RESTful APIs, Async Pipelines, Distributed Services ]
+
+intelligence & ml:
+  frameworks:     [ PyTorch, TensorFlow, Scikit-Learn, OpenCV ]
+  genai & llms:   [ RAG Architectures, Agentic Workflows, Gemini API, OpenAI API ]
+  focus:          [ Model Training, Evaluation, Production MLOps Serving ]
+
+frontend:
+  library:        [ React.js ]
+  styling:        [ Tailwind CSS ]
+
+data & storage:
+  relational:     [ PostgreSQL, MySQL ]
+  nosql & cache:  [ MongoDB, Redis ]
+  vector:         [ Endee ]
+
+cloud & devops:
+  platforms:      [ AWS, Azure ]
+  containers:     [ Docker, Kubernetes, Nginx ]
+  tools:          [ Linux, Git, GitHub, Postman ]
